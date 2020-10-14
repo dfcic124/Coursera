@@ -1,3 +1,3 @@
-# Coursera
+# Coursera Capstone
 
-I'm adding text to this file
+This is my GitHub repo for my IBM Applied Data Science Capstone Coursera course.
